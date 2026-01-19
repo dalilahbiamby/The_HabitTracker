@@ -1,4 +1,4 @@
-import pytest
+import pytest # type: ignore
 from habit import Habit
 from habitManager import HabitManager
 from unittest.mock import patch
