@@ -68,7 +68,7 @@ The HabitTracker is a command-line based software application designed to help u
 
       - pip install pytest
 
-  ### 3.3 Run the Application via the terminal/command prompt/shell
+  ### 3.3 Run the Application 
 
   - Navigate to The HabitTracker project folder using the terminal/command prompt/shell
   
